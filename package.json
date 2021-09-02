@@ -1,0 +1,16 @@
+{
+  "name": "Emotion_To_Emoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d code"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://veraat.github.io/MotionGuesser",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
